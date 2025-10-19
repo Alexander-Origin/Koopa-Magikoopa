@@ -1,0 +1,124 @@
+{
+  "elements": [
+    {
+      "id": "aa2286a1-8955-44ef-bb39-e42b93f1ff79",
+      "file": "aa2286a1-8955-44ef-bb39-e42b93f1ff79.json",
+      "name": "Koopa (base race)",
+      "type": "race"
+    },
+    {
+      "id": "ed1de8c1-b7ef-42bf-be4d-d974d85bfe23",
+      "file": "ed1de8c1-b7ef-42bf-be4d-d974d85bfe23.json",
+      "name": "Ground Koopa",
+      "type": "subrace"
+    },
+    {
+      "id": "5d4d359e-fc46-4953-9efc-1033382ad07c",
+      "file": "5d4d359e-fc46-4953-9efc-1033382ad07c.json",
+      "name": "Paratroopa",
+      "type": "subrace"
+    },
+    {
+      "id": "0e8043fa-e842-4202-9d0c-17ef8a5d971f",
+      "file": "0e8043fa-e842-4202-9d0c-17ef8a5d971f.json",
+      "name": "Magikoopa (heritage)",
+      "type": "subrace"
+    },
+    {
+      "id": "67cad179-cced-48b7-a242-8afe88b16ee5",
+      "file": "67cad179-cced-48b7-a242-8afe88b16ee5.json",
+      "name": "Dry Koopa (Dry Bones)",
+      "type": "subrace"
+    },
+    {
+      "id": "e0c4456a-045b-439e-a037-7e482cc7b609",
+      "file": "e0c4456a-045b-439e-a037-7e482cc7b609.json",
+      "name": "Magikoopa (Kamek) - base class",
+      "type": "class"
+    },
+    {
+      "id": "1a333684-53d0-49d8-9e4f-3b1e6bcd4cbf",
+      "file": "1a333684-53d0-49d8-9e4f-3b1e6bcd4cbf.json",
+      "name": "Grand Advisor (subclass)",
+      "type": "classfeature"
+    },
+    {
+      "id": "25e524b4-11ac-4548-8f98-0167336eea96",
+      "file": "25e524b4-11ac-4548-8f98-0167336eea96.json",
+      "name": "Arcane Prankster (subclass)",
+      "type": "classfeature"
+    },
+    {
+      "id": "5819acc8-f781-4ca6-b452-2740b042e931",
+      "file": "5819acc8-f781-4ca6-b452-2740b042e931.json",
+      "name": "Reality Shaper (subclass)",
+      "type": "classfeature"
+    },
+    {
+      "id": "9e8076a1-33a9-4ff2-aa4f-4b97b39cc730",
+      "file": "9e8076a1-33a9-4ff2-aa4f-4b97b39cc730.json",
+      "name": "Starburst Bolt",
+      "type": "spell"
+    },
+    {
+      "id": "2b36f5c4-d86f-41ca-a7c6-9d7c53576951",
+      "file": "2b36f5c4-d86f-41ca-a7c6-9d7c53576951.json",
+      "name": "Mini-Morph",
+      "type": "spell"
+    },
+    {
+      "id": "d7082af9-454f-4802-9419-307b374c2c52",
+      "file": "d7082af9-454f-4802-9419-307b374c2c52.json",
+      "name": "Spectral Broom",
+      "type": "spell"
+    },
+    {
+      "id": "8147c7d6-e1b9-49c0-bcea-36e78acc8bf4",
+      "file": "8147c7d6-e1b9-49c0-bcea-36e78acc8bf4.json",
+      "name": "Mop-Up Magic",
+      "type": "spell"
+    },
+    {
+      "id": "5ef5d1f0-bd7f-40e1-b4b5-93fe50fc99d8",
+      "file": "5ef5d1f0-bd7f-40e1-b4b5-93fe50fc99d8.json",
+      "name": "Comical Confusion",
+      "type": "spell"
+    },
+    {
+      "id": "27057a40-ad0d-4766-820a-902081770aef",
+      "file": "27057a40-ad0d-4766-820a-902081770aef.json",
+      "name": "Polymorph Pop!",
+      "type": "spell"
+    },
+    {
+      "id": "09b74dea-b397-492e-be52-c9086ff49b25",
+      "file": "09b74dea-b397-492e-be52-c9086ff49b25.json",
+      "name": "Summon Koopa",
+      "type": "spell"
+    },
+    {
+      "id": "3b9374ba-1a7d-41ee-95eb-5e19ce578b2f",
+      "file": "3b9374ba-1a7d-41ee-95eb-5e19ce578b2f.json",
+      "name": "Hexstar Storm",
+      "type": "spell"
+    },
+    {
+      "id": "fb7a5d26-847c-4bda-aa5f-cca868a53963",
+      "file": "fb7a5d26-847c-4bda-aa5f-cca868a53963.json",
+      "name": "Summon Koopa Squad",
+      "type": "spell"
+    },
+    {
+      "id": "0d0bed1f-86e9-4dcd-96f4-a168a48dc5fc",
+      "file": "0d0bed1f-86e9-4dcd-96f4-a168a48dc5fc.json",
+      "name": "Grand Star Cataclysm",
+      "type": "spell"
+    },
+    {
+      "id": "a9306ccb-36bb-48a4-8a8a-c2128ad3a19f",
+      "file": "a9306ccb-36bb-48a4-8a8a-c2128ad3a19f.json",
+      "name": "Rewrite Reality",
+      "type": "spell"
+    }
+  ]
+}
